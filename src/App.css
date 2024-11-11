@@ -1,0 +1,46 @@
+.App {
+  background-color: #f9fafc;
+  text-align: center;
+  text-wrap: wrap;
+  font-family: serif;
+  margin: 50px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+h1 {
+  font-size: 25px;
+  font-weight: 600;
+  background-image: linear-gradient(to left, #4b0df7, #a89ff1);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+h3 {
+  font-size: 16px;
+}
+
+button {
+  background-color: #dddde0;
+  font-family: Arial, sans-serif;
+  margin: 10px;
+  padding: 5px 7px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #0d0d0d;
+  cursor: pointer;
+  outline: solid;
+  outline-color: #4b0df7;
+}
+
+select {
+  position: relative;
+  font-family: Arial;
+  color: #080808f6;
+  font-size: medium;
+  background-color: #eeeef1;
+  padding: 2px 2px;
+}
